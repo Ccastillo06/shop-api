@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "e0ae46a7-860c-4e2e-8504-7e612b5bee41",
+      "name": "Gran Dev Auto V",
+      "price": 50.99,
+      "description": "Videojuego sobre desarrollo web y hackers"
+    },
+    {
+      "id": "ec5760ee-d877-4aa7-965e-1e1a9cdcaddc",
+      "name": "Sofá de salón",
+      "price": 600,
+      "description": "Sofá muy cómodo y bonito"
+    },
+    {
+      "id": "b982a6a8-7809-4cbe-b35a-0de32013cc8f",
+      "name": "Pack sillas de diseño",
+      "price": 74.99,
+      "description": "Pack de dos sillas de colores"
+    },
+    {
+      "id": "2bdad18d-dd70-4bd3-a6b7-27cdd8b62e09",
+      "name": "Saco de boxeo",
+      "price": 250,
+      "description": "Saco de boxeo con material premium"
+    },
+    {
+      "id": "5dde1217-1d44-4ab7-b8c1-07027f31354f",
+      "name": "Portátil plateado",
+      "price": 2000,
+      "description": "Un portátil brillante y muy cómodo de usar"
+    },
+    {
+      "id": "839b0f16-624e-4623-93cb-e135fe7cfc72",
+      "name": "Trilogía: El señor de los developers",
+      "price": 99.99,
+      "description": "Conocida trilogía de libros sobre las aventuras de un dev estresado"
+    },
+    {
+      "id": "74241869-a6d0-4452-96c1-1b98cd4451ea",
+      "name": "Mesa de café",
+      "price": 435,
+      "description": "Mesa de madera de roble para el café"
+    }
+  ]
+}
